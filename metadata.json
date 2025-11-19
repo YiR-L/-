@@ -1,0 +1,5 @@
+{
+  "name": "一键生成小红书封面",
+  "description": "一键生成小红书封面，支持3:4、1:1、16:9等多种尺寸及视频导出分享功能。",
+  "requestFramePermissions": []
+}
